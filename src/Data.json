@@ -1,0 +1,37 @@
+[
+    {
+        "ceo": "Kenichiro Yoshida",
+        "country": "Japan",
+        "imageLink": "https://i.ibb.co/8PKnw53/top-og.jpg",
+        "link": "https://www.sony.net/",
+        "title": "Sony"
+    },
+    {
+        "ceo": "Satya Nadella",
+        "country": "USA",
+        "imageLink": "https://i.ibb.co/FXHN600/download.png",
+        "link": "https://www.microsoft.com/en-us/",
+        "title": "Microsoft"
+    },
+    {
+        "ceo": "Taro Shimada",
+        "country": "Japan",
+        "imageLink": "https://i.ibb.co/n825WSF/download.png",
+        "link": "https://www.toshiba.com/tai/",
+        "title": "Toshiba"
+    },
+    {
+        "ceo": "Kōnosuke Matsushita",
+        "country": "Japan",
+        "imageLink": "https://i.ibb.co/z24pwMd/download.png",
+        "link": "https://holdings.panasonic/global/gateway.html",
+        "title": "Panasonic"
+    },
+    {
+        "ceo": "Takahito Tokita",
+        "country": "Japan",
+        "imageLink": "https://i.ibb.co/Rc9DTwF/download.png",
+        "link": "http://www.fujitsu.com/global/",
+        "title": "Fujitsu"
+    }
+]
